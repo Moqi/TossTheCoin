@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Pong\Assets\Scripts\Main.cs">
+    <Files>
+      <File FileName="..\Pong\Assets\Scripts\Main.cs" Line="121" Column="12" />
+      <File FileName="..\Pong\Assets\Scripts\LeftEdge.cs" Line="10" Column="21" />
+      <File FileName="..\Pong\Assets\Scripts\RightEdge.cs" Line="10" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

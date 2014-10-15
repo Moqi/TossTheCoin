@@ -1,0 +1,24 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public class Floor : MonoBehaviour 
+{
+
+	// Use this for initialization
+	void Start () 
+	{
+	
+	}
+	
+	// Update is called once per frame
+	void Update () 
+	{
+	
+	}
+	/*
+	private void OnCollisionEnter(Collision collider)
+	{
+		Debug.Log ("COLLISION");
+	}
+	*/
+}
